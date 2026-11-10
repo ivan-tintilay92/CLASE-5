@@ -1,0 +1,53 @@
+body {
+  background-color: #e5e5e5;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+  text-align: center;
+  background-image: url("../img/fondo.avif");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+header img {
+  width: 100px;
+}
+
+h1 {
+  background-color: #c4c4c4;
+  color: #00617a;
+  letter-spacing: 8px;
+  text-align: center;
+}
+h2 {
+  background-color: #c4c4c4;
+  color: #00617a;
+  font-size: 18px;
+}
+footer {
+  background-color: #00617a;
+  color: white;
+  text-align: center;
+}
+footer img {
+  width: 22px;
+}
+nav {
+  background-color: #00617a;
+  text-align: center;
+}
+
+nav li {
+  display: inline;
+}
+
+nav a {
+  color: white;
+  font-size: 18px;
+}
+
+.sinViñetas {
+  list-style-type: none;
+}
